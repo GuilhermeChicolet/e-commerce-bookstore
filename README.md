@@ -17,7 +17,7 @@
 
 ## Nota sobre SwiperJS:
 
- <p align="center">  SwiperJS é uma ferramenta, classificada como Mobile Touch Slider (ferramenta que realiza transição de Slides para dispositivos móveis com touch screen). Usada em sites, aplicativos web e aplicativos móveis nativos/híbridos. </p>
+ <p align="center">  SwiperJS é uma ferramenta, classificada como Mobile Touch Slider (ferramenta que realiza transição de Slides para dispositivos móveis (touch screen). Usada em sites, aplicativos web e aplicativos móveis nativos/híbridos. </p>
 
 <hr>
 
